@@ -96,7 +96,7 @@ npm start
 ## 📸 Screenshots
 
 ![Imagem 1](/capturas1.png)
-![Imagem 2](/capturas2.jng)
+![Imagem 2](/capturas2.jpg)
 
 ---
 
