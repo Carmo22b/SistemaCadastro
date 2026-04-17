@@ -63,8 +63,8 @@ git clone https://github.com/Carmo22b/SistemaCadastro.git
 ```bash
 cd backend
 npm install
-- Rode o nodemon (para auto-reload do servidor)
 ```
+- Rode o nodemon (para auto-reload do servidor)
 
 Configure o banco de dados:
 
