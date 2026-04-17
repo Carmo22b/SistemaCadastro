@@ -95,9 +95,8 @@ npm start
 
 ## 📸 Screenshots
 
-![Dashboard](./images/dashboard.png)
-![Cadastro de clientes](./images/clientes.png)
-![Ordens de serviço](./images/os.png)
+![Imagem 1](/capturas1.png)
+![Imagem 2](/capturas2.png)
 
 ---
 
